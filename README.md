@@ -24,7 +24,7 @@ GitHub Pages serves the root of the `main` branch. Changes pushed to `main` publ
 
 ## Hanuman Ashtothram
 
-[Hanuman Ashtothram](https://msathia.github.io/Ashtothram-Slokam/hanuman-ashtothram.html) adds 108 names in Tamil and English transliteration from [Sathia’s original Wix page](https://msathia.wixsite.com/msathia). Both versions retain the source wording and order, including its spellings and Tamil count markers. Names are presented without added numbering, in a compact continuous list. Tamil and English can be switched without displaying both texts at once; both remain available when JavaScript is disabled. The original Wix page remains unchanged.
+[Hanuman Ashtothram](https://msathia.github.io/Ashtothram-Slokam/hanuman-ashtothram.html) adds 108 names in Tamil and English transliteration from [Sathia’s original Wix page](https://msathia.wixsite.com/msathia). Both versions retain the source wording and order, including its spellings and Tamil count markers. Individual navigation numbers are editorial additions. The original Wix page remains unchanged.
 
 ## Layout
 
