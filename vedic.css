@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Vedic Tamil";
+  src: url("assets/fonts/NotoSansTamil-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+.vedic-page .mantra,
+.vedic-page .invocation,
+.vedic-page .closing {
+  font-family: "Vedic Tamil", "Noto Sans Tamil", sans-serif;
+  font-weight: 400;
+}

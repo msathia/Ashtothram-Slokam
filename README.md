@@ -29,3 +29,7 @@ GitHub Pages serves the root of the `main` branch. Changes pushed to `main` publ
 ## Layout
 
 The collection homepage follows the grouped-card navigation of [Anushtanam](https://github.com/msathia/Anushtanam), while preserving this site's original warm palette, Tamil typography, and reading controls. Saraswati remains the first collection entry, now at `saraswati-suktam.html`; Hanuman has direct Tamil and English section links. Both reading pages link back to the collection.
+
+## Vedic text rendering
+
+Saraswati Suktam embeds Noto Sans Tamil (OFL 1.1) as used by the source. The accented visargas in verse 6 and the closing Shanti mantra use U+11303 GRANTHA SIGN VISARGA in place of the source's ASCII colon; this prevents combining accents from generating dotted circles. All other hymn characters are retained.
