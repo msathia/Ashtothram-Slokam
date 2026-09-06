@@ -11,3 +11,16 @@
   font-family: "Vedic Tamil", "Noto Sans Tamil", sans-serif;
   font-weight: 400;
 }
+
+/* Give the wider Vedic font room while retaining the existing font size. */
+.vedic-page main {
+  max-width: 1280px;
+}
+/* Keep the final grapheme and danda together even when a long word wraps. */
+.vedic-page .verse-ending {
+  white-space: nowrap;
+  overflow-wrap: normal;
+}
+@media print {
+  .vedic-page main { max-width: none; }
+}
